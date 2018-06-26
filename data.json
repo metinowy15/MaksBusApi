@@ -1,0 +1,1310 @@
+[
+    {
+        "kurs": "Limanowa-Rybie",
+        "kursy": [
+            {
+                "legends": "F",
+                "krakow": "06:05",
+                "wieliczka": "05:35",
+                "gdow": "05:13",
+                "lapanow": "05:00",
+                "rybie": "04:46",
+                "szyk": "-",
+                "limanowa": "04:20"
+            },
+            {
+                "legends": "F",
+                "krakow": "06:54",
+                "wieliczka": "06:26",
+                "gdow": "06:05",
+                "lapanow": "05:52",
+                "rybie": "-",
+                "szyk": "05:33",
+                "limanowa": "05:05"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "07:15",
+                "wieliczka": "06:35",
+                "gdow": "06:15",
+                "lapanow": "06:05",
+                "rybie": "05:50",
+                "szyk": "-",
+                "limanowa": "05:30"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "07:55",
+                "wieliczka": "07:25",
+                "gdow": "07:03",
+                "lapanow": "06:50",
+                "rybie": "06:36",
+                "szyk": "-",
+                "limanowa": "06:10"
+            },
+            {
+                "legends": "F",
+                "krakow": "08:14",
+                "wieliczka": "07:46",
+                "gdow": "07:25",
+                "lapanow": "07:12",
+                "rybie": "-",
+                "szyk": "6:53",
+                "limanowa": "06:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "08:40",
+                "wieliczka": "08:10",
+                "gdow": "07:48",
+                "lapanow": "07:35",
+                "rybie": "07:21",
+                "szyk": "-",
+                "limanowa": "06:55"
+            },
+            {
+                "legends": "F S",
+                "krakow": "08:58",
+                "wieliczka": "08:31",
+                "gdow": "08:10",
+                "lapanow": "07;57",
+                "rybie": "-",
+                "szyk": "07:38",
+                "limanowa": "07:10"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "09:30",
+                "wieliczka": "09:00",
+                "gdow": "08:38",
+                "lapanow": "08:25",
+                "rybie": "08:11",
+                "szyk": "-",
+                "limanowa": "07:45"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "10:05",
+                "wieliczka": "09:35",
+                "gdow": "09:13",
+                "lapanow": "09:00",
+                "rybie": "08:46",
+                "szyk": "-",
+                "limanowa": "08:20"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "11:25",
+                "wieliczka": "10:55",
+                "gdow": "10:33",
+                "lapanow": "10:20",
+                "rybie": "10:06",
+                "szyk": "-",
+                "limanowa": "09:40"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "11:55",
+                "wieliczka": "11:25",
+                "gdow": "11:03",
+                "lapanow": "10:50",
+                "rybie": "10:36",
+                "szyk": "-",
+                "limanowa": "10:10"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "12:33",
+                "wieliczka": "12:06",
+                "gdow": "11:45",
+                "lapanow": "11:32",
+                "rybie": "-",
+                "szyk": "11:13",
+                "limanowa": "10:45"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "13:00",
+                "wieliczka": "12:30",
+                "gdow": "12:08",
+                "lapanow": "11:55",
+                "rybie": "11:45",
+                "szyk": "-",
+                "limanowa": "11:15"
+            },
+            {
+                "legends": "F S",
+                "krakow": "13:57",
+                "wieliczka": "13:31",
+                "gdow": "13:10",
+                "lapanow": "12:57",
+                "rybie": "-",
+                "szyk": "12:38",
+                "limanowa": "12:10"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "14:05",
+                "wieliczka": "13:35",
+                "gdow": "13:13",
+                "lapanow": "13:00",
+                "rybie": "12:46",
+                "szyk": "-",
+                "limanowa": "12:20"
+            },
+            {
+                "legends": "F",
+                "krakow": "14:45",
+                "wieliczka": "14:15",
+                "gdow": "13:53",
+                "lapanow": "13:40",
+                "rybie": "13:26",
+                "szyk": "-",
+                "limanowa": "13:00"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "15:10",
+                "wieliczka": "14:40",
+                "gdow": "14:18",
+                "lapanow": "14:05",
+                "rybie": "13:51",
+                "szyk": "-",
+                "limanowa": "13:25"
+            },
+            {
+                "legends": "F",
+                "krakow": "16:00",
+                "wieliczka": "15:30",
+                "gdow": "15:08",
+                "lapanow": "14:55",
+                "rybie": "14:41",
+                "szyk": "-",
+                "limanowa": "14:15"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "16:23",
+                "wieliczka": "15:56",
+                "gdow": "15:35",
+                "lapanow": "15:22",
+                "rybie": "-",
+                "szyk": "15:03",
+                "limanowa": "14:35"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "16:40",
+                "wieliczka": "16:10",
+                "gdow": "15:48",
+                "lapanow": "15:35",
+                "rybie": "15:21",
+                "szyk": "-",
+                "limanowa": "14:55"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "17:40",
+                "wieliczka": "17:10",
+                "gdow": "16:48",
+                "lapanow": "16:35",
+                "rybie": "16:21",
+                "szyk": "-",
+                "limanowa": "15:55"
+            },
+            {
+                "legends": "7",
+                "krakow": "18:15",
+                "wieliczka": "17:45",
+                "gdow": "17:23",
+                "lapanow": "17:10",
+                "rybie": "16:56",
+                "szyk": "-",
+                "limanowa": "16:30"
+            },
+            {
+                "legends": "S P",
+                "krakow": "18:45",
+                "wieliczka": "18:15",
+                "gdow": "17:53",
+                "lapanow": "17:40",
+                "rybie": "17:26",
+                "szyk": "-",
+                "limanowa": "17:00"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "19:05",
+                "wieliczka": "18:35",
+                "gdow": "18:13",
+                "lapanow": "18:00",
+                "rybie": "17:46",
+                "szyk": "-",
+                "limanowa": "17:20"
+            },
+            {
+                "legends": "7",
+                "krakow": "20:20",
+                "wieliczka": "19:50",
+                "gdow": "19:28",
+                "lapanow": "19:15",
+                "rybie": "19:01",
+                "szyk": "-",
+                "limanowa": "18:35"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "20:40",
+                "wieliczka": "20:10",
+                "gdow": "19:48",
+                "lapanow": "19:35",
+                "rybie": "19:21",
+                "szyk": "-",
+                "limanowa": "18:55"
+            }
+        ]
+    },
+    {
+        "kurs": "Rybie-Limanowa",
+        "kursy": [
+            {
+                "legends": "F",
+                "krakow": "06:50",
+                "wieliczka": "07:20",
+                "gdow": "07:45",
+                "lapanow": "07:55",
+                "rybie": "-",
+                "szyk": "08:10",
+                "limanowa": "08:38"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "07:25",
+                "wieliczka": "07:55",
+                "gdow": "08:20",
+                "lapanow": "08:30",
+                "rybie": "08:40",
+                "szyk": "-",
+                "limanowa": "09:10"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "08:10",
+                "wieliczka": "08:40",
+                "gdow": "09:05",
+                "lapanow": "09:10",
+                "rybie": "09:25",
+                "szyk": "-",
+                "limanowa": "09:55"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "08:45",
+                "wieliczka": "09:15",
+                "gdow": "09:40",
+                "lapanow": "09:50",
+                "rybie": "-",
+                "szyk": "10:05",
+                "limanowa": "10:33"
+            },
+            {
+                "legends": "F 7",
+                "krakow": "09:05",
+                "wieliczka": "09:35",
+                "gdow": "10:00",
+                "lapanow": "10:10",
+                "rybie": "10:20",
+                "szyk": "-",
+                "limanowa": "10:50"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "09:30",
+                "wieliczka": "10:00",
+                "gdow": "10:25",
+                "lapanow": "10:35",
+                "rybie": "10:45",
+                "szyk": "-",
+                "limanowa": "11:15"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "09:55",
+                "wieliczka": "10:25",
+                "gdow": "10:50",
+                "lapanow": "11:00",
+                "rybie": "11:10",
+                "szyk": "-",
+                "limanowa": "11:40"
+            },
+            {
+                "legends": "F S",
+                "krakow": "10:05",
+                "wieliczka": "10:35",
+                "gdow": "11:00",
+                "lapanow": "11:10",
+                "rybie": "-",
+                "szyk": "11:25",
+                "limanowa": "11:53"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "10:15",
+                "wieliczka": "10:45",
+                "gdow": "11:10",
+                "lapanow": "11:20",
+                "rybie": "11:30",
+                "szyk": "-",
+                "limanowa": "12:00"
+            },
+            {
+                "legends": "F 7",
+                "krakow": "10:45",
+                "wieliczka": "11:15",
+                "gdow": "11:40",
+                "lapanow": "11:50",
+                "rybie": "-",
+                "szyk": "12:05",
+                "limanowa": "12:33"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "10:55",
+                "wieliczka": "11:25",
+                "gdow": "11:50",
+                "lapanow": "12:00",
+                "rybie": "12:10",
+                "szyk": "-",
+                "limanowa": "12:40"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "11:50",
+                "wieliczka": "12:20",
+                "gdow": "12:45",
+                "lapanow": "12:55",
+                "rybie": "13:05",
+                "szyk": "-",
+                "limanowa": "13:35"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "12:20",
+                "wieliczka": "12:50",
+                "gdow": "13:15",
+                "lapanow": "13:25",
+                "rybie": "13:35",
+                "szyk": "-",
+                "limanowa": "14:05"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "12:50",
+                "wieliczka": "13:20",
+                "gdow": "13:45",
+                "lapanow": "13:55",
+                "rybie": "-",
+                "szyk": "14:10",
+                "limanowa": "14:37"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "13:35",
+                "wieliczka": "14:05",
+                "gdow": "14:30",
+                "lapanow": "14:40",
+                "rybie": "14:50",
+                "szyk": "-",
+                "limanowa": "15:20"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "14:00",
+                "wieliczka": "14:30",
+                "gdow": "14:50",
+                "lapanow": "15:00",
+                "rybie": "15:10",
+                "szyk": "-",
+                "limanowa": "15:40"
+            },
+            {
+                "legends": "F S",
+                "krakow": "14:30",
+                "wieliczka": "15:00",
+                "gdow": "15:20",
+                "lapanow": "15:35",
+                "rybie": "-",
+                "szyk": "15:50",
+                "limanowa": "16:18"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "14:55",
+                "wieliczka": "15:25",
+                "gdow": "15:50",
+                "lapanow": "16:00",
+                "rybie": "16:10",
+                "szyk": "-",
+                "limanowa": "16:40"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "15:35",
+                "wieliczka": "16:05",
+                "gdow": "16:30",
+                "lapanow": "16:40",
+                "rybie": "16:50",
+                "szyk": "-",
+                "limanowa": "17:20"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "16:00",
+                "wieliczka": "16:30",
+                "gdow": "16:55",
+                "lapanow": "17:05",
+                "rybie": "17:15",
+                "szyk": "-",
+                "limanowa": "17:45"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "16:40",
+                "wieliczka": "17:10",
+                "gdow": "17:35",
+                "lapanow": "17:45",
+                "rybie": "-",
+                "szyk": "18:00",
+                "limanowa": "18:28"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "17:20",
+                "wieliczka": "17:50",
+                "gdow": "18:15",
+                "lapanow": "18:25",
+                "rybie": "18:35",
+                "szyk": "-",
+                "limanowa": "19:05"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "18:15",
+                "wieliczka": "18:45",
+                "gdow": "19:10",
+                "lapanow": "19:20",
+                "rybie": "19:30",
+                "szyk": "-",
+                "limanowa": "20:00"
+            },
+            {
+                "legends": "S P",
+                "krakow": "18:40",
+                "wieliczka": "19:10",
+                "gdow": "19:25",
+                "lapanow": "19:45",
+                "rybie": "19:55",
+                "szyk": "-",
+                "limanowa": "20:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "19:45",
+                "wieliczka": "20:15",
+                "gdow": "20:40",
+                "lapanow": "20:50",
+                "rybie": "21:00",
+                "szyk": "-",
+                "limanowa": "21:30"
+            },
+            {
+                "legends": "7",
+                "krakow": "20:40",
+                "wieliczka": "21:10",
+                "gdow": "21:35",
+                "lapanow": "21:45",
+                "rybie": "21:55",
+                "szyk": "-",
+                "limanowa": "22:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "21:00",
+                "wieliczka": "21:30",
+                "gdow": "21:55",
+                "lapanow": "22:05",
+                "rybie": "22:15",
+                "szyk": "-",
+                "limanowa": "22:45"
+            },
+            {
+                "legends": "S P",
+                "krakow": "21:45",
+                "wieliczka": "22:15",
+                "gdow": "22:40",
+                "lapanow": "22:50",
+                "rybie": "23:00",
+                "szyk": "-",
+                "limanowa": "23:30"
+            }
+        ]
+    },
+    {
+        "kurs": "Zegocina-Krakow",
+        "kursy": [
+            {
+                "legends": "F",
+                "krakow": "05:52",
+                "wieliczka": "05:24",
+                "gdow": "05:02",
+                "lapanow": "04:50",
+                "trzciana": "04:40",
+                "zegocina": "04:25",
+                "laskowa": "04:15",
+                "limanowa": "04:00"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "06:17",
+                "wieliczka": "05:49",
+                "gdow": "05:27",
+                "lapanow": "05:15",
+                "trzciana": "05:05",
+                "zegocina": "04:50",
+                "laskowa": "04:40",
+                "limanowa": "04:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "06:47",
+                "wieliczka": "06:19",
+                "gdow": "05:57",
+                "lapanow": "05:45",
+                "trzciana": "05:35",
+                "zegocina": "05:20",
+                "laskowa": "05:10",
+                "limanowa": "04:55"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "07:17",
+                "wieliczka": "06:49",
+                "gdow": "06:27",
+                "lapanow": "06:15",
+                "trzciana": "06:05",
+                "zegocina": "05:50",
+                "laskowa": "05:40",
+                "limanowa": "05:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "07:37",
+                "wieliczka": "07:09",
+                "gdow": "06:47",
+                "lapanow": "06:35",
+                "trzciana": "06:25",
+                "zegocina": "06:10",
+                "laskowa": "06:00",
+                "limanowa": "05:45"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "08:07",
+                "wieliczka": "07:39",
+                "gdow": "07:17",
+                "lapanow": "07:05",
+                "trzciana": "06:55",
+                "zegocina": "06:40",
+                "laskowa": "06:30",
+                "limanowa": "06:15"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "08:22",
+                "wieliczka": "07:54",
+                "gdow": "07:32",
+                "lapanow": "07:20",
+                "trzciana": "07:10",
+                "zegocina": "06:55",
+                "laskowa": "06:45",
+                "limanowa": "06:30"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "08:52",
+                "wieliczka": "08:24",
+                "gdow": "08:02",
+                "lapanow": "07:50",
+                "trzciana": "07:40",
+                "zegocina": "07:25",
+                "laskowa": "07:15",
+                "limanowa": "07:00"
+            },
+            {
+                "legends": "7",
+                "krakow": "09:02",
+                "wieliczka": "08:34",
+                "gdow": "08:12",
+                "lapanow": "08:00",
+                "trzciana": "07:50",
+                "zegocina": "07:35",
+                "laskowa": "07:25",
+                "limanowa": "07:10"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "09:12",
+                "wieliczka": "08:44",
+                "gdow": "08:22",
+                "lapanow": "08:10",
+                "trzciana": "08:00",
+                "zegocina": "07:45",
+                "laskowa": "07:35",
+                "limanowa": "07:20"
+            },
+            {
+                "legends": "F",
+                "krakow": "09:32",
+                "wieliczka": "09:04",
+                "gdow": "08:42",
+                "lapanow": "08:30",
+                "trzciana": "08:20",
+                "zegocina": "08:05",
+                "laskowa": "07:55",
+                "limanowa": "07:40"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "09:57",
+                "wieliczka": "09:29",
+                "gdow": "09:07",
+                "lapanow": "08:55",
+                "trzciana": "08:45",
+                "zegocina": "08:30",
+                "laskowa": "08:20",
+                "limanowa": "08:05"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "10:27",
+                "wieliczka": "09:59",
+                "gdow": "09:37",
+                "lapanow": "09:25",
+                "trzciana": "09:15",
+                "zegocina": "09:00",
+                "laskowa": "08:50",
+                "limanowa": "08:35"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "10:47",
+                "wieliczka": "10:19",
+                "gdow": "09:57",
+                "lapanow": "09:45",
+                "trzciana": "09:35",
+                "zegocina": "09:20",
+                "laskowa": "09:10",
+                "limanowa": "08:55"
+            },
+            {
+                "legends": "6 7",
+                "krakow": "11:07",
+                "wieliczka": "10:39",
+                "gdow": "10:17",
+                "lapanow": "10:05",
+                "trzciana": "09:55",
+                "zegocina": "09:40",
+                "laskowa": "09:30",
+                "limanowa": "09:15"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "11:37",
+                "wieliczka": "11:09",
+                "gdow": "10:47",
+                "lapanow": "10:35",
+                "trzciana": "10:25",
+                "zegocina": "10:10",
+                "laskowa": "10:00",
+                "limanowa": "09:45"
+            },
+            {
+                "legends": "7",
+                "krakow": "12:02",
+                "wieliczka": "11:34",
+                "gdow": "11:12",
+                "lapanow": "11:00",
+                "trzciana": "10:50",
+                "zegocina": "10:35",
+                "laskowa": "10:25",
+                "limanowa": "10:10"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "12:22",
+                "wieliczka": "11:54",
+                "gdow": "11:32",
+                "lapanow": "11:20",
+                "trzciana": "11:10",
+                "zegocina": "10:55",
+                "laskowa": "10:45",
+                "limanowa": "10:30"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "12:52",
+                "wieliczka": "12:24",
+                "gdow": "12:02",
+                "lapanow": "11:50",
+                "trzciana": "11:40",
+                "zegocina": "11:25",
+                "laskowa": "11:15",
+                "limanowa": "11:00"
+            },
+            {
+                "legends": "F",
+                "krakow": "13:12",
+                "wieliczka": "12:44",
+                "gdow": "12:22",
+                "lapanow": "12:10",
+                "trzciana": "12:00",
+                "zegocina": "11:45",
+                "laskowa": "11:35",
+                "limanowa": "11:20"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "13:27",
+                "wieliczka": "12:59",
+                "gdow": "12:37",
+                "lapanow": "12:25",
+                "trzciana": "12:15",
+                "zegocina": "12:00",
+                "laskowa": "11:50",
+                "limanowa": "11:35"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "13:52",
+                "wieliczka": "13:24",
+                "gdow": "13:02",
+                "lapanow": "12:50",
+                "trzciana": "12:40",
+                "zegocina": "12:25",
+                "laskowa": "12:15",
+                "limanowa": "12:00"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "14:17",
+                "wieliczka": "13:49",
+                "gdow": "13:27",
+                "lapanow": "13:15",
+                "trzciana": "13:05",
+                "zegocina": "12:50",
+                "laskowa": "12:40",
+                "limanowa": "12:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "14:42",
+                "wieliczka": "14:14",
+                "gdow": "13:52",
+                "lapanow": "13:40",
+                "trzciana": "13:30",
+                "zegocina": "13:15",
+                "laskowa": "13:05",
+                "limanowa": "12:50"
+            },
+            {
+                "legends": "F",
+                "krakow": "15:02",
+                "wieliczka": "14:34",
+                "gdow": "14:12",
+                "lapanow": "14:00",
+                "trzciana": "13:50",
+                "zegocina": "13:35",
+                "laskowa": "13:25",
+                "limanowa": "13:10"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "15:27",
+                "wieliczka": "14:59",
+                "gdow": "14:37",
+                "lapanow": "14:25",
+                "trzciana": "14:15",
+                "zegocina": "14:00",
+                "laskowa": "13:50",
+                "limanowa": "13:35"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "15:47",
+                "wieliczka": "15:19",
+                "gdow": "14:57",
+                "lapanow": "14:45",
+                "trzciana": "14:35",
+                "zegocina": "14:20",
+                "laskowa": "14:10",
+                "limanowa": "13:55"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "16:17",
+                "wieliczka": "15:49",
+                "gdow": "15:27",
+                "lapanow": "15:15",
+                "trzciana": "15:05",
+                "zegocina": "14:50",
+                "laskowa": "14:40",
+                "limanowa": "14:25"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "16:42",
+                "wieliczka": "16:14",
+                "gdow": "15:52",
+                "lapanow": "15:40",
+                "trzciana": "15:30",
+                "zegocina": "15:15",
+                "laskowa": "15:05",
+                "limanowa": "14:50"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "17:12",
+                "wieliczka": "16:44",
+                "gdow": "16:22",
+                "lapanow": "16:10",
+                "trzciana": "16:00",
+                "zegocina": "15:45",
+                "laskowa": "15:35",
+                "limanowa": "15:20"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "17:42",
+                "wieliczka": "17:14",
+                "gdow": "16:52",
+                "lapanow": "16:40",
+                "trzciana": "16:30",
+                "zegocina": "16:15",
+                "laskowa": "16:05",
+                "limanowa": "15:50"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "18:02",
+                "wieliczka": "17:34",
+                "gdow": "17:12",
+                "lapanow": "17:00",
+                "trzciana": "16:50",
+                "zegocina": "16:35",
+                "laskowa": "16:25",
+                "limanowa": "16:10"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "18:37",
+                "wieliczka": "18:09",
+                "gdow": "17:47",
+                "lapanow": "17:35",
+                "trzciana": "17:25",
+                "zegocina": "17:10",
+                "laskowa": "17:00",
+                "limanowa": "16:45"
+            },
+            {
+                "legends": "7 P",
+                "krakow": "19:22",
+                "wieliczka": "18:54",
+                "gdow": "18:32",
+                "lapanow": "18:20",
+                "trzciana": "18:10",
+                "zegocina": "17:55",
+                "laskowa": "17:45",
+                "limanowa": "17:30"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "19:42",
+                "wieliczka": "19:14",
+                "gdow": "18:52",
+                "lapanow": "18:40",
+                "trzciana": "18:30",
+                "zegocina": "18:15",
+                "laskowa": "18:05",
+                "limanowa": "17:50"
+            },
+            {
+                "legends": "S P",
+                "krakow": "21:02",
+                "wieliczka": "20:34",
+                "gdow": "20:12",
+                "lapanow": "20:00",
+                "trzciana": "19:50",
+                "zegocina": "19:35",
+                "laskowa": "19:25",
+                "limanowa": "19:10"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "21:32",
+                "wieliczka": "21:04",
+                "gdow": "20:42",
+                "lapanow": "20:30",
+                "trzciana": "20:20",
+                "zegocina": "20:05",
+                "laskowa": "19:55",
+                "limanowa": "19:40"
+            }
+        ]
+    },
+    {
+        "kurs": "Krakow-Zegocina",
+        "kursy": [
+            {
+                "legends": "F",
+                "krakow": "06:10",
+                "wieliczka": "06:40",
+                "gdow": "07:05",
+                "lapanow": "07:15",
+                "trzciana": "07:22",
+                "zegocina": "07:35",
+                "laskowa": "07:45",
+                "limanowa": "08:06"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "06:25",
+                "wieliczka": "06:55",
+                "gdow": "07:20",
+                "lapanow": "07:30",
+                "trzciana": "07:37",
+                "zegocina": "07:50",
+                "laskowa": "08:00",
+                "limanowa": "08:21"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "07:05",
+                "wieliczka": "07:35",
+                "gdow": "08:00",
+                "lapanow": "08:10",
+                "trzciana": "08:17",
+                "zegocina": "08:30",
+                "laskowa": "08:40",
+                "limanowa": "09:01"
+            },
+            {
+                "legends": "F",
+                "krakow": "07:35",
+                "wieliczka": "08:05",
+                "gdow": "08:30",
+                "lapanow": "08:40",
+                "trzciana": "08:47",
+                "zegocina": "09:00",
+                "laskowa": "09:10",
+                "limanowa": "09:31"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "07:50",
+                "wieliczka": "08:20",
+                "gdow": "08:45",
+                "lapanow": "08:55",
+                "trzciana": "09:02",
+                "zegocina": "09:15",
+                "laskowa": "09:25",
+                "limanowa": "09:46"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "08:30",
+                "wieliczka": "09:00",
+                "gdow": "09:25",
+                "lapanow": "09:35",
+                "trzciana": "09:42",
+                "zegocina": "09:55",
+                "laskowa": "10:05",
+                "limanowa": "10:26"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "08:55",
+                "wieliczka": "09:25",
+                "gdow": "09:50",
+                "lapanow": "10:00",
+                "trzciana": "10:07",
+                "zegocina": "10:20",
+                "laskowa": "10:30",
+                "limanowa": "10:51"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "09:15",
+                "wieliczka": "09:45",
+                "gdow": "10:10",
+                "lapanow": "10:20",
+                "trzciana": "10:27",
+                "zegocina": "10:40",
+                "laskowa": "10:50",
+                "limanowa": "11:11"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "09:45",
+                "wieliczka": "10:15",
+                "gdow": "10:40",
+                "lapanow": "10:50",
+                "trzciana": "10:57",
+                "zegocina": "11:10",
+                "laskowa": "11:20",
+                "limanowa": "11:41"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "10:35",
+                "wieliczka": "11:05",
+                "gdow": "11:30",
+                "lapanow": "11:40",
+                "trzciana": "11:47",
+                "zegocina": "12:00",
+                "laskowa": "12:10",
+                "limanowa": "12:31"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "11:15",
+                "wieliczka": "11:45",
+                "gdow": "12:10",
+                "lapanow": "12:20",
+                "trzciana": "12:27",
+                "zegocina": "12:40",
+                "laskowa": "12:50",
+                "limanowa": "13:11"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "12:00",
+                "wieliczka": "12:30",
+                "gdow": "12:55",
+                "lapanow": "13:05",
+                "trzciana": "13:12",
+                "zegocina": "13:25",
+                "laskowa": "13:35",
+                "limanowa": "13:56"
+            },
+            {
+                "legends": "F 6",
+                "krakow": "12:40",
+                "wieliczka": "13:10",
+                "gdow": "13:35",
+                "lapanow": "13:45",
+                "trzciana": "13:52",
+                "zegocina": "14:05",
+                "laskowa": "14:15",
+                "limanowa": "14:36"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "13:10",
+                "wieliczka": "13:40",
+                "gdow": "14:05",
+                "lapanow": "14:15",
+                "trzciana": "14:22",
+                "zegocina": "14:35",
+                "laskowa": "14:45",
+                "limanowa": "15:06"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "13:50",
+                "wieliczka": "14:20",
+                "gdow": "14:45",
+                "lapanow": "14:55",
+                "trzciana": "15:02",
+                "zegocina": "15:15",
+                "laskowa": "15:25",
+                "limanowa": "15:46"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "14:20",
+                "wieliczka": "14:50",
+                "gdow": "15:15",
+                "lapanow": "15:25",
+                "trzciana": "15:32",
+                "zegocina": "15:45",
+                "laskowa": "15:55",
+                "limanowa": "16:16"
+            },
+            {
+                "legends": "F",
+                "krakow": "14:40",
+                "wieliczka": "15:10",
+                "gdow": "15:35",
+                "lapanow": "15:45",
+                "trzciana": "15:52",
+                "zegocina": "16:05",
+                "laskowa": "16:15",
+                "limanowa": "16:36"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "15:10",
+                "wieliczka": "15:40",
+                "gdow": "16:05",
+                "lapanow": "16:15",
+                "trzciana": "16:22",
+                "zegocina": "16:35",
+                "laskowa": "16:45",
+                "limanowa": "17:06"
+            },
+            {
+                "legends": "F",
+                "krakow": "15:25",
+                "wieliczka": "15:55",
+                "gdow": "16:20",
+                "lapanow": "16:30",
+                "trzciana": "16:37",
+                "zegocina": "16:50",
+                "laskowa": "17:00",
+                "limanowa": "17:21"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "15:55",
+                "wieliczka": "16:25",
+                "gdow": "16:50",
+                "lapanow": "17:00",
+                "trzciana": "17:07",
+                "zegocina": "17:20",
+                "laskowa": "17:30",
+                "limanowa": "17:51"
+            },
+            {
+                "legends": "F",
+                "krakow": "16:15",
+                "wieliczka": "16:45",
+                "gdow": "17:10",
+                "lapanow": "17:20",
+                "trzciana": "17:27",
+                "zegocina": "17:40",
+                "laskowa": "17:50",
+                "limanowa": "18:11"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "16:30",
+                "wieliczka": "17:00",
+                "gdow": "17:25",
+                "lapanow": "17:35",
+                "trzciana": "17:42",
+                "zegocina": "17:55",
+                "laskowa": "18:05",
+                "limanowa": "18:26"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "16:55",
+                "wieliczka": "17:25",
+                "gdow": "17:50",
+                "lapanow": "18:00",
+                "trzciana": "18:07",
+                "zegocina": "18:20",
+                "laskowa": "18:30",
+                "limanowa": "18:51"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "17:30",
+                "wieliczka": "18:00",
+                "gdow": "18:25",
+                "lapanow": "18:35",
+                "trzciana": "18:42",
+                "zegocina": "18:55",
+                "laskowa": "19:05",
+                "limanowa": "19:26"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "17:50",
+                "wieliczka": "18:20",
+                "gdow": "18:45",
+                "lapanow": "18:55",
+                "trzciana": "19:02",
+                "zegocina": "19:15",
+                "laskowa": "19:25",
+                "limanowa": "19:46"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "18:25",
+                "wieliczka": "18:55",
+                "gdow": "19:20",
+                "lapanow": "19:30",
+                "trzciana": "19:37",
+                "zegocina": "19:50",
+                "laskowa": "20:00",
+                "limanowa": "20:21"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "18:50",
+                "wieliczka": "19:20",
+                "gdow": "19:45",
+                "lapanow": "19:55",
+                "trzciana": "20:02",
+                "zegocina": "20:15",
+                "laskowa": "20:25",
+                "limanowa": "20:46"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "19:20",
+                "wieliczka": "19:50",
+                "gdow": "20:15",
+                "lapanow": "20:25",
+                "trzciana": "20:32",
+                "zegocina": "20:45",
+                "laskowa": "20:55",
+                "limanowa": "21:16"
+            },
+            {
+                "legends": "7 P",
+                "krakow": "20:00",
+                "wieliczka": "20:30",
+                "gdow": "20:55",
+                "lapanow": "21:05",
+                "trzciana": "21:12",
+                "zegocina": "21:25",
+                "laskowa": "21:35",
+                "limanowa": "21:56"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "20:15",
+                "wieliczka": "20:45",
+                "gdow": "21:10",
+                "lapanow": "21:20",
+                "trzciana": "21:27",
+                "zegocina": "21:40",
+                "laskowa": "21:50",
+                "limanowa": "22:11"
+            },
+            {
+                "legends": "F 6 7",
+                "krakow": "22:00",
+                "wieliczka": "22:30",
+                "gdow": "22:55",
+                "lapanow": "23:05",
+                "trzciana": "23:12",
+                "zegocina": "23:25",
+                "laskowa": "23:35",
+                "limanowa": "23:56"
+            }
+        ]
+    }
+]
