@@ -1,9 +1,9 @@
 {
 	"appVersion": 1.1,
 	"timetableVersion": 1.1,
-	"notification": {
+	"message": {
 		"name": "",
 		"timestamp": "",
-		"message": ""
+		"text": ""
 	}
 }
