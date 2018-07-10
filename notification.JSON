@@ -1,11 +1,11 @@
 {
-	"appVersion": 1.6,
+	"appVersion": 1.7,
 	"timetableVersion": 1.5,
 	"message": {
 		"name": "Kuba",
 		"timestamp": "2018-07-29 24:31",
 		"text": "Wolak jest pedałem"
 	},
-	"schoolFreeDayFrom":"23-06-2018",
-	"schoolFreeDayTo":"31-08-2018"
+	"schoolDayFreeFrom":"23-06-2018",
+	"schoolDayFreeTo":"31-08-2018"
 }
