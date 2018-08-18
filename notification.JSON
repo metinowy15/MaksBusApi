@@ -1,10 +1,10 @@
 {
-	"appVersion": 1.8,
-	"timetableVersion": 1.5,
+	"appVersion": 1.9,
+	"timetableVersion": 1.6,
 	"message": {
 		"name": "Kuba",
-		"timestamp": "2018-07-29 24:31",
-		"text": "Zmiany w rozkładzie"
+		"timestamp": "2018-08-18 15:59",
+		"text": "Można już udostępniać pozycje"
 	},
 	"schoolDayFreeFrom":"23-06-2018",
 	"schoolDayFreeTo":"31-08-2018"
