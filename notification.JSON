@@ -1,10 +1,10 @@
 {
-	"appVersion": 2.2,
-	"timetableVersion": 1.9,
+	"appVersion": 3.0,
+	"timetableVersion": 2.0,
 	"message": {
 		"name": "Kuba",
 		"timestamp": "2018-10-18 11:44",
-		"text": "Dodano kursy telesfora"
+		"text": "Kursy Maxbus oraz Telesfor"
 	},
 	"schoolDayFreeFrom":"23-06-2018",
 	"schoolDayFreeTo":"31-08-2018"
