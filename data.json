@@ -1306,5 +1306,273 @@
                 "Limanowa": "23:56"
             }
         ]
+    }, {
+        "kurs": "Limanowa-Tymbark",
+        "kursy": [
+            {
+                "legends": "F 6 7",
+                "Kraków": "05:30",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "05:30"
+            },
+            {
+                "legends": "F 6",
+                "Kraków": "06:40",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "06:40"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "07:45",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "07:45"
+            },
+            {
+                "legends": "F",
+                "Kraków": "08:10",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "08:10"
+            },
+            {
+                "legends": "6",
+                "Kraków": "08:35",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "08:35"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "09:25",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "09:25"
+            },
+            {
+                "legends": "F 6",
+                "Kraków": "10:10",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "10:10"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "10:50",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "10:50"
+            },
+            {
+                "legends": "7",
+                "Kraków": "11:35",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "11:35"
+            },
+            {
+                "legends": "F 6",
+                "Kraków": "11:55",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "11:55"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "13:00",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "13:00"
+            },
+            {
+                "legends": "F 6",
+                "Kraków": "14:05",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "14:05"
+            },
+            {
+                "legends": "7",
+                "Kraków": "14:10",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "14:10"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "14:35",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "14:35"
+            },
+            {
+                "legends": "F",
+                "Kraków": "14:50",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "14:50"
+            },
+            {
+                "legends": "6 7",
+                "Kraków": "15:45",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "15:45"
+            },
+            {
+                "legends": "F",
+                "Kraków": "16:05",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "16:05"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "17:10",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "17:10"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "18:00",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "18:00"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "18:45",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "18:45"
+            },
+            {
+                "legends": "F 6",
+                "Kraków": "19:05",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "19:05"
+            },
+            {
+                "legends": "F 6 7",
+                "Kraków": "20:05",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "20:05"
+            },
+            {
+                "legends": "F 7",
+                "Kraków": "21:47",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "-",
+                "Limanowa": "21:47"
+            },
+            {
+                "legends": "6 7",
+                "Kraków": "21:55",
+                "Wieliczka": "19:10",
+                "Gdów": "19:25",
+                "Łapanów": "19:45",
+                "Lasocice": "19:55",
+                "Jodłownik": "-",
+                "Tymbark": "22:10",
+                "Limanowa": "21:55"
+            }
+        ]
     }
 ]
