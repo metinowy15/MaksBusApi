@@ -1,10 +1,10 @@
 {
-	"appVersion": 1.9,
-	"timetableVersion": 1.6,
+	"appVersion": 2.0,
+	"timetableVersion": 1.7,
 	"message": {
 		"name": "Kuba",
 		"timestamp": "2018-08-18 15:59",
-		"text": "Można już udostępniać pozycje"
+		"text": "Dodano telesfora"
 	},
 	"schoolDayFreeFrom":"23-06-2018",
 	"schoolDayFreeTo":"31-08-2018"
