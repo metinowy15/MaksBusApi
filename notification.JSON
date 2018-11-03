@@ -1,10 +1,10 @@
 {
-	"appVersion": 3.1,
+	"appVersion": 3.2,
 	"timetableVersion": 2.0,
 	"message": {
 		"name": "Kuba",
 		"timestamp": "2018-10-18 11:44",
-		"text": "Uwaga jutro kursy są zmienione"
+		"text": "aktualizacja poprawiajaca błędy już wkrótce"
 	},
 	"schoolDayFreeFrom":"23-06-2018",
 	"schoolDayFreeTo":"31-08-2018"
