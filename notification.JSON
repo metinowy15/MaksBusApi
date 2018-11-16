@@ -1,10 +1,10 @@
 {
-	"appVersion": 3.2,
+	"appVersion": 3.3,
 	"timetableVersion": 2.0,
 	"message": {
-		"name": "Kuba",
+		"name": "Nowe",
 		"timestamp": "2018-10-18 11:44",
-		"text": "aktualizacja poprawiajaca błędy już wkrótce"
+		"text": "Dla IOS dostępne pod adresem: busy.grodnalyzce.pl"
 	},
 	"schoolDayFreeFrom":"23-06-2018",
 	"schoolDayFreeTo":"31-08-2018"
