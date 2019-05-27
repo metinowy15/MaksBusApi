@@ -1,10 +1,10 @@
 {
-	"appVersion": 3.3,
-	"timetableVersion": 2.0,
+	"appVersion": 3.4,
+	"timetableVersion": 3.0,
 	"message": {
-		"name": "Adres",
-		"timestamp": "2018-10-18 11:44",
-		"text": "Dla IOS dostępne pod adresem:    busy.grodnalyzce.pl"
+		"name": "Nowy Kleparz",
+		"timestamp": "2019-05-27 11:44",
+		"text": "Uwaga autobusy mogą omijać Nowy Kleparz"
 	},
 	"schoolDayFreeFrom":"23-06-2018",
 	"schoolDayFreeTo":"31-08-2018"
